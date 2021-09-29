@@ -2,4 +2,3 @@ panel
 scipy
 numpy
 matplotlib
-random
